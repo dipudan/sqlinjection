@@ -1,2 +1,2 @@
 # sqlinjection
-Python Scripts for sql injections
+Set of different python scripts , trying different types of sql injection methods.
